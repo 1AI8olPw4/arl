@@ -34,6 +34,15 @@ pip install -r requirements.txt
 ```
 
 ## 使用说明
+### 初始化
+```yaml
+#更新config目录下的config.yaml文件，配置相关参数
+api:
+  host: "" # ARL服务器IP
+  port: 5003
+  key: "" #APIkey
+  policy_id: "" #策略ID
+  ```
 ### 命令行参数
 ```bash
 # 查看帮助信息
