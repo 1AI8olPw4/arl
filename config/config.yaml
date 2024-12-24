@@ -1,8 +1,8 @@
 api:
-  host: "106.75.162.100"
+  host: "" # ARL服务器IP
   port: 5003
-  key: "7b215-53fa15-b539a50-288768-bcf939f2"
-  policy_id: "672d32153258e15773c141ea"
+  key: "" #APIkey
+  policy_id: "" #策略ID
 
 request:
   verify_ssl: false
