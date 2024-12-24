@@ -1,0 +1,10 @@
+api:
+  host: "106.75.162.100"
+  port: 5003
+  key: "7b215-53fa15-b539a50-288768-bcf939f2"
+  policy_id: "672d32153258e15773c141ea"
+
+request:
+  verify_ssl: false
+  timeout: 30
+  user_agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36" 
