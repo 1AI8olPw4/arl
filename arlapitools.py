@@ -21,8 +21,8 @@ def print_banner():
     """
     version_info = """
     Asset Reconnaissance Light API Tools v1.0.0
-    Author: Your Name
-    Github: https://github.com/your-repo/arl
+    Author: 1AI8olPw4
+    Github: https://github.com/1AI8olPw4/arl
     """
     print(Fore.CYAN + banner + Style.RESET_ALL)
     print(Fore.YELLOW + version_info + Style.RESET_ALL)
